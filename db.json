@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "tensach": "sdfsdfdsf update",
+      "namxb": "2024",
+      "giatien": "1000",
+      "tacgia": "2fsdfdsafas",
+      "id": 4
+    },
+    {
+      "tensach": "234234",
+      "namxb": "2023",
+      "giatien": "3234",
+      "tacgia": "2323",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "ngocnv@gmail.com",
+      "password": "$2a$10$t/6T.smhmEKy/4IEaTdYyOF0qLH7VQqeZDNDCrOQcfc34sLJ1XEIS",
+      "id": 1
+    },
+    {
+      "email": "ngocnv2@gmail.com",
+      "password": "$2a$10$jMrkbyhBDOdbOls.DXEAYegay0FO7IPrrwGN8ntzrnSxADDGV.yjq",
+      "id": 2
+    },
+    {
+      "email": "23423@gmail.com",
+      "password": "$2a$10$hrDK0n2MtRNWCgkVwoVDS.yyryDyeLaLxQCAv8UZ99ydRezEs4ALC",
+      "id": 3
+    },
+    {
+      "email": "ngocnv34@gmail.com",
+      "password": "$2a$10$VfuNxH6GjwzeYFo9S5.Zv.0rO4iNYC0yMy2U.LKjR7nnZbR9s2n0S",
+      "id": 4
+    }
+  ]
+}
